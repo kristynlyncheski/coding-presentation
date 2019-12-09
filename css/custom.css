@@ -15,6 +15,12 @@
     font-size: 30px;
 }
 
+.reveal .credit {
+    font-size: 12px;
+    text-align: left;
+    margin-top: 50px;
+}
+
 .burgers-wrapper {
     display: flex;
     flex-flow: row nowrap;
